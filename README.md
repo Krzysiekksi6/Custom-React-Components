@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <br />
 <br />
-The git repository contains ready to use Custom and RE-USABLE React Components and Hooks 
+The git repository contains ready to use Custom and RE-USABLE React Components and Hooks in './src/components' 
 
 ## Available Scripts
 
