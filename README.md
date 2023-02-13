@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Custom React Components
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<br />
+The git repository contains ready to use Custom and RE-USABLE React Components and Hooks 
 
 ## Available Scripts
 
